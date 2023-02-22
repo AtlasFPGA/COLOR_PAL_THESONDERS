@@ -21,3 +21,5 @@ The original VERILOG code could be find here:
 
 
 https://github.com/TheSonders/COLOR_PAL
+
+![THESONDERS COLOR PAL VALID FOR ALL FPGAS](https://github.com/AtlasFPGA/COLOR_PAL_THESONDERS/blob/main/THESONDERS_COLOR_PAL.jpg)
