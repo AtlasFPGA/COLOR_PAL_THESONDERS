@@ -18,4 +18,6 @@ Inputs: RGB (2:2:2), syncs and a 35.46 ~ 36.00 clock.
 Uses a precalculated waveform
 
 The original VERILOG code could be find here:
+
+
 https://github.com/TheSonders/COLOR_PAL
